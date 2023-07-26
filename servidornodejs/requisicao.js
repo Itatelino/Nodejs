@@ -1,4 +1,4 @@
-const http = require('http');
+/*const http = require('http');
 
 http.createServer((requisicao,resposta)=>{
     resposta.writeHead(200,{
@@ -6,4 +6,4 @@ http.createServer((requisicao,resposta)=>{
     });
     resposta.write('Meu servidor ta rodando...');
     resposta.end();
-}).listen(1337);
+}).listen(1337);*/
